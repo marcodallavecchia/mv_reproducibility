@@ -1,5 +1,5 @@
 :revealjs_theme: white
-:customcss: my_theme.css
+:customcss: mv_theme.css
 :revealjs_parallaxBackgroundImage: assets/images/network_background.jpg
 :revealjs_parallaxBackgroundSize: 3500px 2300px
 
