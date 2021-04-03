@@ -1,41 +1,21 @@
+// aesthetics-related settings
 :revealjs_theme: white
 :customcss: mv_theme.css
 :revealjs_parallaxBackgroundImage: assets/images/network_background.jpg
 :revealjs_parallaxBackgroundSize: 3500px 2300px
 
-
-
 = Reproducibility
+// images settings
 :imagesdir: assets/images/
 :title-slide-background-image: desk.jpg
-by: Marco and Valeria
 
-//[background-image="desk.jpg"]
-== Why do we need that?
+//title slide content
+by: https://marcodallavecchia.github.io/biologistsadventure/[Marco] and https://twitter.com/valefonsecadiaz[Valeria]
 
-[%step]
-* Foo
-* Bar
-* World
+// START OF SLIDES
+// it needs to have empty line between include statements
+include::mv_presentation_theory.adoc[]
 
-[.refs]
---
-* https://www.vecteezy.com/vector-art/530854-low-poly-banner-design[Low poly banner design  Vectors by Vecteezy]
---
+include::mv_presentation_solutions.adoc[]
 
-== Slide Two
-
-A Great Story
-
-[.notes]
---
-* tell anecdote
-* make a point
---
-
-=== Slide 2.1
-
-Ti amo
-
-[.red.background]
-== This is a red background
+include::mv_presentation_handson.adoc[]

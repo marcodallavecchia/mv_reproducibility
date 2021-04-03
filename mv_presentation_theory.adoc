@@ -1,0 +1,29 @@
+
+//[background-image="desk.jpg"]
+== Theory for reproducibility
+
+[%step]
+* Foo
+* Bar
+* World
+
+[.refs]
+--
+* https://www.vecteezy.com/vector-art/530854-low-poly-banner-design[Low poly banner design  Vectors by Vecteezy]
+--
+
+=== Strategical elements
+
+A Great Story
+
+[.notes]
+--
+* tell anecdote
+* make a point
+--
+
+=== Structural elements
+CONTENT
+
+=== Technical elements
+CONTENT

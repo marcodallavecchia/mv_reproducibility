@@ -1,0 +1,14 @@
+
+== Solutions to previous elements
+
+=== Experimental
+
+* Strategical
+* Structural
+* Technical
+
+=== Computational
+
+* Strategical
+* Structural
+* Technical

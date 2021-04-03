@@ -1,0 +1,5 @@
+
+== Hands-on Session
+
+* What experiments to do?
+* How to quantify reproducibility?
