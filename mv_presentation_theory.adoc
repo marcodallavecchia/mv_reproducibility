@@ -1,17 +1,30 @@
 
 //[background-image="desk.jpg"]
+[.columns]
 == Theory for reproducibility
 
-[%step]
+[.columm]
 * Foo
 * Bar
 * World
+* item 1
+
+[.column]
+* Foo
+* Bar
+* World
+* item 1
+* itme 2
+* itme 3
+* item 4
 
 [.refs]
 --
 * https://www.vecteezy.com/vector-art/530854-low-poly-banner-design[Low poly banner design  Vectors by Vecteezy]
 --
 
+// little video as a test
+[background-iframe="https://www.youtube.com/embed/MnqnQHcfnno?autoplay=0"]
 === Strategical elements
 
 A Great Story
@@ -23,7 +36,19 @@ A Great Story
 --
 
 === Structural elements
+[source, python]
+----
+print "Hello World"
+----
+
+[.columns]
+=== Technical elements
+[.column]
 CONTENT
 
-=== Technical elements
-CONTENT
+[.column.textbox]
+--
+THIS IS A TEXTBOX?
+
+THIS IS A SUPER NICE TEXT
+--
