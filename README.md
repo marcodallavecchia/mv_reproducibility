@@ -1,1 +1,2 @@
-bundle exec asciidoctor-revealjs -a revealjsdir=https://cdn.jsdelivr.net/npm/reveal.js@3.9.2 mv_presentation.adoc
+This is a temporary empty repo for a future training workshop on scientific reproducibility.
+As of now only the backbone and structure has been set, the actual material will come up in the future.
